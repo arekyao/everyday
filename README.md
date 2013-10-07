@@ -1,4 +1,4 @@
-# foxslide #
+# everyday #
 
 Live theme preview available at [AdrianArtiles.com](http://www.AdrianArtiles.com).
 

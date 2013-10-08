@@ -8,7 +8,7 @@ This is a theme built for [Octopress](http://Octopress.org) that is a work in pr
 
 ````
 $ cd yourOctopress
-$ git clone https://github.com/arekyao/everyday .themes/foxslide
+$ git clone https://github.com/arekyao/everyday .themes/everyday
 $ rake install['everyday']
 $ rake generate
 ````
